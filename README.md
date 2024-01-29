@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... software development / game production
 - 📫 How to reach me ... discord
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... diamond on league 
+- ⚡ Fun fact: ... emerald on league 
 
 <!---
 m0rkkk/m0rkkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
